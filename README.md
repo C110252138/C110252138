@@ -5,3 +5,5 @@
 | 班級             |進電子三甲                     |
 | 電子郵件         | C110252138@nkust.edu.tw          |
 | 選修             | 智慧城市導論                  |
+
+<img src="https://github.com/C110252138/C110252138/blob/main/QR.PNG" width="200" height="200">
